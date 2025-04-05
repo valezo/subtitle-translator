@@ -1,0 +1,35 @@
+1
+00:00:00,000 --> 00:00:02,500
+Willkommen bei der Beispiel-Untertiteldatei!
+
+2
+00:00:03,000 --> 00:00:06,000
+Dies ist eine Demonstration von SRT-Untertiteln.
+
+3
+00:00:07,000 --> 00:00:10,500
+Sie können SRT-Dateien verwenden, um Ihren Videos Untertitel hinzuzufügen.
+
+8
+00:00:31,000 --> 00:00:35,000
+Und so erstellen Sie eine SRT-Untertiteldatei!
+
+9
+00:00:36,000 --> 00:00:40,000
+Viel Spaß beim Hinzufügen von Untertiteln zu Ihren Videos!
+g
+6
+00:00:21,000 --> 00:00:25,000
+Sie können das Timing an Ihr Video anpassen.
+
+7
+00:00:26,000 --> 00:00:30,000
+Stellen Sie sicher, dass der Untertiteltext klar und lesbar ist.
+
+4
+00:00:12,000 --> 00:00:15,000
+Jeder Untertiteleintrag besteht aus einer Nummer, einem Timecode und dem Untertiteltext.
+
+5
+00:00:16,000 --> 00:00:20,000
+Das Zeitcodeformat ist Stunden:Minuten:Sekunden,Millisekunden.
